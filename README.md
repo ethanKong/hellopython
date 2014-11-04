@@ -2,4 +2,4 @@ hellopython
 ===========
 
 my first reposiotory on GitHub
-I love :pizza:,:coffee:,and :badminton:
+I love :pizza:,:coffee:.
